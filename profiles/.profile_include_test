@@ -1,1 +1,2 @@
 echo "Testing..."
+PS1='\e[32;1m\u@\h: \e[37m\W\e[0m\$'
